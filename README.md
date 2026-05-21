@@ -22,7 +22,7 @@
     - N_CLUSTERS = 3
     - REQUIRED_MIN_HIGH_SPEED = 100.0 #minimum speed to recognise driving as a motorway
     - STRETCH_ACCEL_LIMIT = 2.5
-    -TARGET_PROPORTIONS = {0: 0.1, 1: 0.89, 2: 0.01}
+    - TARGET_PROPORTIONS = {0: 0.1, 1: 0.89, 2: 0.01}
 
 
 7. Set desired parameters and run for as many times as you like (1 run generates one driving cycle)
